@@ -1,5 +1,5 @@
 ![logo](https://github.com/princesahanipks/princesahanipks/blob/main/banner%20logo.jpg)
-<<h1 align="center">Hi 👋, I'm Prince Sahani</h1>
+<<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif " width=30px> I'm Prince Sahani</h1>
 <h3 align="center">I am Prince Sahani, a passionate learner and aspiring web developer with a growing skillset in front-end and back-end technologies. Currently pursuing my BCA, I’m exploring web development, programming, and tech tools with dedication and curiosity. I'm excited to apply my skills in real-world projects and continuously grow as a developer.</h3>
 <img align="right" width="400" alt="Coding" src="logogif.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princesahanipks&label=Profile%20views&color=0e75b6&style=flat" alt="princesahanipks" /> </p>
