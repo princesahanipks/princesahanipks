@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://princesahanipks.github.io/#project-section](https://princesahanipks.github.io/#project-section)
 
-- 📝 I regularly write articles on [https://learnpks.blogspot.com/](https://learnpks.blogspot.com/)
+- 📝 I regularly write articles on [https://digimistry.blogspot.com/](https://digimistry.blogspot.com/)
 
 - 💬 Ask me about **Anythings**
 
