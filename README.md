@@ -4,7 +4,7 @@
 <img align="right" width="400" alt="Coding" src="logogif.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princesahanipks&label=Profile%20views&color=0e75b6&style=flat" alt="princesahanipks" /> </p>
 
-- 🔭 I’m currently Studying **Bachelor of Computer Application**
+- 🔭 I’m currently Studying **Bachelor of Computer Application **
 
 - 🌱 I’m currently learning **Web Development & DSA**
 
