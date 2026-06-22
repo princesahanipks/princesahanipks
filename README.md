@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **https://forms.gle/BYjJVaHh3SXZDsqRA**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dvmf4vilxVY5zMncm4IDA0TW133cUvlh/view](https://drive.google.com/file/d/1Dvmf4vilxVY5zMncm4IDA0TW133cUvlh/view)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Dvmf4vilxVY5zMncm4IDA0TW133cUvlh/view)
 
 - ⚡ Fun fact **I Think I am Funny**
 
