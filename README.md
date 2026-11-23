@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Studying **Bachelor of Computer Application **
 
-- 🌱 I’m currently learning **Web Development & DSA**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Cool Project**
 
